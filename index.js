@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const url = "https://live.kommunity.com/";
+const url = "https://us-central1-live-26afa.cloudfunctions.net/addMessage";
 const interval = 15000;
 
 function trigger() {
